@@ -1,0 +1,20 @@
+name: "Stephanie's Website"
+output_dir: "."
+navbar:
+  title: "Stephanie Hurtado"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-github
+      href: https://github.com/shurtadogonzalez
+    - text: "CV"
+      icon: fa-file-alt
+      href: Stephanie_CV.Rmd
+
+
+output:
+  html_document:
+    theme: flatly
+
