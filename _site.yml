@@ -11,7 +11,7 @@ navbar:
       href: https://github.com/shurtadogonzalez
     - text: "CV"
       icon: fa-file-alt
-      href: Stephanie_CV.Rmd
+      href: CV.Rmd
 
 
 output:
