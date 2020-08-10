@@ -1,10 +1,104 @@
 ---
-title: "Stephanie Hurtado"
-##Email: hstefany23@gmail.com
+title: <strong> <em> Stephanie Hurtado </em> </strong>
+subtitle: Email:hstefany23@gmail.com
+---
+<br>
+
+## <strong> Education </strong>
+#### <strong> University of California, Santa Barbara | Expected 2020 </strong>
+
+  <li>B.A. in Environmental Studies </li>
+  <li>Minor in Spatial Studies </li>
+
 ---
 
-#Education
-##University of California, Santa Barbara | Expected 2020
-### -B.A. Environmental Studies 
-### -Minor in Spatial Studies 
+## <strong>Internship Experience </strong>
+#### <em>Lead Research Assistant | Oono Lab, UCSB |	<strong> 3/19-3/20 </strong> </em>
+
+  <li>Used the polymerase chain reaction (PCR) progress to extract and copies of fungal DNA. </li>
+  <li>Studied the relationship between soil microbial communities and conifer seedling establishment, especially in fire scars. </li>
+  <li>Guided new interns in the process used within the Oono Lab and Runte’s research.</li>
+<br>
+
+#### <em>Habitat Restoration Intern | Goleta, CA |	<strong> 9/18-12/18 </strong> </em>
+  <li>Participated in the management of invasive plant control in a vernal pool restoration project. </li>
+  <li>Collected phenology data while obtaining skills in plant identification. </li>
+---
+
+## <strong>Leadership Experience </strong>
+
+#### <em>Co-instructor | "Thriving, Not Surviving, “Department of Interdisciplinary Studies, UCSB | <strong> 8/20 </strong> </em>                    
+  <li>Spoke to student in the INT 10 class about my personal college experiences and struggles  </li>
+  <li> Adviced them on how to make the most out of their college experience. </li>
+<br>
+
+#### <em>Vice President | Sigma Omega Nu Latina Interest Sorority Inc., UCSB | <strong> 9/19-6/20 </strong> </em>
+
+<li>Responsible for promoting academic and professional development. </li>
+<li>Managed the mentorship program that helps member who are facing academic hardship.</li>
+<br>
+
+#### <em>Director of Community Service | United Sorority and Fraternity Council, UCSB | <strong> 9/19-3/20 </strong> </em>
+
+<li>Planned quarterly events for 300+ affiliated members as a way to promote community involvement.	</li>
+<li>Collaborate with cross-council leaders to plan a carnival event for local elementary school students. </li>
+<br>
+
+#### <em>First-generation Volunteer Peer Mentor| Educational Opportunity Program, UCSB | <strong>9/18-6/19 </strong> </em>
+<li>Mentored two freshman students and guided them through their first year at UCSB. </li>
+<li> Used campus resource and staff to help with any academic and personal questions. </li>
+
+---
+
+## <strong>Honors, Awards, and Scholarships</strong>
+
+#### <em> Living Your Values Award | <strong> 2020 </strong> </em>
+
+<li> Awarded for my commitment to UCSB's United Sorority and Faternity Greek Council. </li>
+<br>
+
+#### <em>Promise Scholar | <strong> 2016-2020 </strong> </em>
+
+<li>Full academic funding awarded to a select number of high achieving low income, first-generation, underrepresented students attending UCSB. </li>
+<br>
+
+#### <em>Santa Barbara Scholarship Foundation Recipient | <strong> 2016-2020 </strong> </em>
+
+<li>Scholarship awarded to qualifying students seeking a higher education and who grew up in the county of Santa Barbara, CA. </li>
+<br>
+
+#### <em> Hispanic Scholarship Fund (HSF) Scholar and Award Recipient | <strong>2018 </strong> </em>                                                   
+<li>Scholarship awarded to the top Hispanic students in the United States seeking a higher education. </li>              
+<br>   
+
+#### <em> College of Letters and Science Honors Program | <strong>2017 </strong> </em>      
+
+<li> Awarded to students who received a 3.5 or higher cumulative GPA. </li>
+<br>
+
+#### <em>Dean’s List | <strong>2017</strong> </em>                                                                      
+<li>Awarded to students who received a 3.5 GPA during a given academic quarter. </li>
+
+---
+
+## <strong> Skills </strong>
+
+#### <em>Language </em>
+<li>English and Spanish, spoken and written </li>
+<br>
+
+#### <em>Computer Skills </em>
+<li>ENVI, QGIS, RStudio, MATLAB, Microsoft Office (Word, PowerPoint, and Excel) </li>
+<br>
+
+#### <em>Relevant Coursework </em>
+<li>Geography 115A-C: Remote Sensing of the Environment 1-3 </li>
+<li>Geography 176A: Introduction to GIS </li>
+<li>Environmental Studies 169: Tracer Hydrology </li>
+<li>Geography 175: Measuring the Environment </li>
+<li>Molecular, Cellular & Development Biology 1A-B & 1AL-BL: Introductory Biology & Laboratory </li>
+
+
+
+
 

@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+
+In the summer of 2020 I took a class GIS course based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
+
+## [Building a project website](https://github.com/shurtadogonzalez/geog176A-lab01)
+
+- Built a static users site with Github 
+- Explored markdown, YMAL, CSS, HTML and website construction
+- Learned how to contribute to another repository
