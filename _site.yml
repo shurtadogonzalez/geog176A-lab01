@@ -11,7 +11,7 @@ navbar:
       href: geog176A.html
     - text: "CV"
       icon: fa-file-alt
-      href: CV.Rmd
+      href: CV.html
 
 
 output:
