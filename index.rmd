@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 ---
-
+<br>
 <center>
 # Hi, I'm Stephanie Hurtado 
 <br>

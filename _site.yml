@@ -1,7 +1,7 @@
 name: "Stephanie's Website"
 output_dir: "."
 navbar:
-  title: "Stephanie's Website""
+  title: "Stephanie's Website"
   left:
     - text: "Home"
       icon: fa-home
@@ -11,7 +11,7 @@ navbar:
       href: geog176A.html
     - text: "CV"
       icon: fa-file-alt
-      href: CV.html
+      href: CV.Rmd
 
 
 output:
