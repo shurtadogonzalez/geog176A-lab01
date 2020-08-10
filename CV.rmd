@@ -2,7 +2,7 @@
 title: <strong> <em> Stephanie Hurtado </em> </strong>
 subtitle: Email:hstefany23@gmail.com
 ---
-<br>
+<br
 
 ## <strong> Education </strong>
 #### <strong> University of California, Santa Barbara | Expected 2020 </strong>
