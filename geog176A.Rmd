@@ -5,12 +5,16 @@ title: "Projects"
 
 In the summer of 2020 I took a class GIS course based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
 
+<br>
+
 
 ## [Building a project website](https://github.com/shurtadogonzalez/geog176A-lab01)
 
 - Built a static users site with Github 
 - Explored markdown, YMAL, CSS, HTML and website construction
 - Learned how to contribute to another repository
+
+<br>
 
 ## [COVID-19 Cases Data Wrangling](https://shurtadogonzalez.github.io/geog-176A-labs/lab-02.html)
 
@@ -19,11 +23,15 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 - Created tables using the knitr::kable function that would help visualize COVID's impact on CA's counties.
 - Plotted graphs with a 7-day rolling mean of the four states most impact by the virus. 
 
+<br>
+
 ## [Distance and the Border Zone](https://shurtadogonzalez.github.io/geog-176A-labs/lab-03.html)
 
 - Learned about simple features, coordinate reference systems and distance measurements 
 - Found and plotted the distances of cities within the 100 mile zone of the "Border Zone."
 - Familiarized myself with the different in which a map can be represented through different graphics, information and colors.
+
+<br> 
 
 ## [Tessleations, Point-in-Polygon](https://shurtadogonzalez.github.io/geog-176A-labs/lab-04.html)
 
@@ -31,10 +39,14 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 - Learned more about functions and their usefulness when working with multiple data sets.
 - Looked at Nation Dam data in order to plot the distrubution of certain dams were around the US.
 
+<br> 
+
 ## [Raster and Remote Sensing](https://shurtadogonzalez.github.io/geog-176A-labs/lab-05.html)
 
 - Created flood images using multiband Landsat Imagery without having to order that imagery from the internet.
 - Learned about various threshold techniques to find surface water and flooded areas in Palo, Iowa.
+
+<br>
 
 ## [Flood Risk in Mission Creek: Past, Present, Future](https://shurtadogonzalez.github.io/geog-176A-labs/lab-06.html)
 
