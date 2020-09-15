@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       icon: fa-home
-      href: index.html
+      href: index.Rmd
     - text: "GIS Work"
       icon: fa-github
       href: geog176A.html
