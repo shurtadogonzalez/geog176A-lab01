@@ -1,12 +1,13 @@
 ---
 title: "About Me"
 ---
-<br>
+
 <center>
 # Hi, I'm Stephanie Hurtado 
 <br>
 ![](~/github/geog176A-lab01/img/IMG_yo.jpg){width="45%"}
 </center>
+
 
 <br>
 I've recently graduated from UC Santa Barbara with a B.A. in Environmental Studies and a minor in Spatial Studies. This past year I took the remote sensing series that helped me look at the environment with a different lens. I was able to work with programs such as ENVI, RStudio, and QGIS. In addition to this, I worked on a project that focused on answering how vegetation in the Zaca Fire scar recovered using a time-series analysis approach. 

@@ -10,3 +10,33 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 - Built a static users site with Github 
 - Explored markdown, YMAL, CSS, HTML and website construction
 - Learned how to contribute to another repository
+
+## [COVID-19 Cases Data Wrangling](https://shurtadogonzalez.github.io/geog-176A-labs/lab-02.html)
+
+- Learned how to use data from other the NYT to see real time COVID data.
+- Learned how to join two sets of data
+- Created tables using the knitr::kable function that would help visualize COVID's impact on CA's counties.
+- Plotted graphs with a 7-day rolling mean of the four states most impact by the virus. 
+
+## [Distance and the Border Zone](https://shurtadogonzalez.github.io/geog-176A-labs/lab-03.html)
+
+- Learned about simple features, coordinate reference systems and distance measurements 
+- Found and plotted the distances of cities within the 100 mile zone of the "Border Zone."
+- Familiarized myself with the different in which a map can be represented through different graphics, information and colors.
+
+## [Tessleations, Point-in-Polygon](https://shurtadogonzalez.github.io/geog-176A-labs/lab-04.html)
+
+- Worked with different type of tessellations that can alter a map.
+- Learned more about functions and their usefulness when working with multiple data sets.
+- Looked at Nation Dam data in order to plot the distrubution of certain dams were around the US.
+
+## [Raster and Remote Sensing](https://shurtadogonzalez.github.io/geog-176A-labs/lab-05.html)
+
+- Created flood images using multiband Landsat Imagery without having to order that imagery from the internet.
+- Learned about various threshold techniques to find surface water and flooded areas in Palo, Iowa.
+
+## [Flood Risk in Mission Creek: Past, Present, Future](https://shurtadogonzalez.github.io/geog-176A-labs/lab-06.html)
+
+- Using data from web APIs building impacted by the 2017 Santa Barbara flood event was able to be assessed.
+- Created a hillshade and HAND raster to assess water levels.
+- Used the whitebox toolkit to make the terrain based datasets.
