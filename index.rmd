@@ -13,7 +13,7 @@ title: "About Me"
 I've recently graduated from UC Santa Barbara with a B.A. in Environmental Studies and a minor in Spatial Studies. This year I took the remote sensing series that helped me look at the environment with a different lens. I was able to work with programs such as ENVI, RStudio, and QGIS. In addition to this, I worked on a project that focused on answering how vegetation in the Zaca Fire scar recovered using a time-series analysis approach. 
 <br>
 
-Throughout this six-week course I was able to get more familiar with both GIS and RStudio. I was able to learn an array of concepts and real-world examples such as tracking COVID-19 data, map projections, tessellations, and flood assessments on Palo, Iowa & Santa Barbara, CA.
+Throughout this six-week course I was able to get more familiar with both GIS and RStudio. I was able to learn an array of concepts and real-world examples such as tracking COVID-19 data, map projections, tessellations, and flood assessments on Palo, Iowa & Santa Barbara, CA. 
 
 
 
